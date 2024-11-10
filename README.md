@@ -17,7 +17,7 @@
 ### 🌐 Connect with me
  
 - 📫 How to reach me: <a href="mailto:aaron6yi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-- 📄 Know about my experiences: <a href="https://linkedin.com/in/aaron6yi"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> 
+- 📄 Know about my experiences: <a href="https://www.linkedin.com/in/aaron7yi"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> 
 
 ---
 ### 🎉 Hobbies and Interests
